@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-xero-vue",
+  "version": "0.1.0",
+  "description": "Set eslint rules for ts syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-plugin-vue": "^9.11.0"
+  },
+  "author": "Eugene Shangin <fessracha@gmail.com>",
+  "license": "ISC"
+}

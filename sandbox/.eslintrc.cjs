@@ -7,9 +7,9 @@ module.exports = {
     'plugin:vue/vue3-essential',
     'eslint:recommended',
     '@vue/eslint-config-typescript',
-    'xero/js-config',
-    'xero/vue3-config',
-    'xero/ts-config'
+    'eslint-config-xero-js',
+    'eslint-config-xero-ts',
+    'eslint-config-xero-vue'
   ],
   parserOptions: {
     ecmaVersion: 'latest'
